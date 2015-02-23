@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL403: The Gothic Novel"
+course_description: "An exploration of the literary and historical contexts of the English Gothic novel. Works studied include the Castle of Otranto, the Mysteries of Udolpho, Frankenstein, Dracula, The Monk, and Jane Eyre."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: An Introduction to the Gothic** <span id="1"></span> 
 *Though originally maligned as a “low” literary form, not worthy of
 serious study, the Gothic novel has more recently come into favor among

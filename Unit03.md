@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL403: The Gothic Novel"
+course_description: "An exploration of the literary and historical contexts of the English Gothic novel. Works studied include the Castle of Otranto, the Mysteries of Udolpho, Frankenstein, Dracula, The Monk, and Jane Eyre."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Monstrous Other** <span id="3"></span> 
 Frankenstein *may be the most famous of the Gothic novels; it has been
 adapted and reincarnated innumerable times since its initial publication

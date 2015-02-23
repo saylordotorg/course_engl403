@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL403: The Gothic Novel"
+course_description: "An exploration of the literary and historical contexts of the English Gothic novel. Works studied include the Castle of Otranto, the Mysteries of Udolpho, Frankenstein, Dracula, The Monk, and Jane Eyre."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Shining (Optional)** <span id="5"></span> 
 *The course concludes with an optional close “reading” of Stanley
 Kubrick’s* The Shining, *an adaptation of Stephen King’s novel of the
