@@ -143,4 +143,11 @@ your calendar and decide to complete subunits 1.1.1 through 1.1.3
 (approximately 2.5 hours) on Tuesday night; subunits 1.1.6 and 1.1.7
 (approximately 2.25 hours) on Wednesday night; etc.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/engl403/Unit01/)
+- [Unit 2](https://legacy.saylor.org/engl403/Unit02/)
+- [Unit 3](https://legacy.saylor.org/engl403/Unit03/)
+- [Unit 4](https://legacy.saylor.org/engl403/Unit04/)
+- [Unit 5](https://legacy.saylor.org/engl403/Unit05/)
+- [Unit 6](https://legacy.saylor.org/engl403/Unit06/)
