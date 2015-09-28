@@ -161,3 +161,4 @@ your calendar and decide to complete subunits 1.1.1 through 1.1.3
 - [Unit 4](https://legacy.saylor.org/engl403/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl403/Unit05/)
 - [Unit 6](https://legacy.saylor.org/engl403/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL403/ENGL403-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL403/ENGL403-FinalExam-Answers.html)
