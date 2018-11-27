@@ -29,7 +29,7 @@ Upon successful completion of this unit, the student will be able to:
 id="2.1"></span> 
 -   **Reading: Horace Walpole’s The Castle of Otranto**
     Link: Horace Walpole’s *[The Castle of
-    Otranto](http://www.saylor.org/site/wp-content/uploads/2011/02/THE-CASTLE-OF-OTRANTO.pdf) *(PDF)  
+    Otranto](https://resources.saylor.org/archived/wp-content/uploads/2011/02/THE-CASTLE-OF-OTRANTO.pdf) *(PDF)  
       
      Also available in:  
      [Google
@@ -182,8 +182,8 @@ id="2.1.6"></span> 
     Hammond’s [“Romance and the Didactic in the Eighteenth-Century
     Novel”](http://www.connotations.uni-tuebingen.de/volume003.htm)
     (PDF) and Brooklyn College: Dr. Lilia Melani’s [“The Gothic
-    Experience](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-2.1.6-A-Brief-Historic-Overview%E2%80%A81.pdf)[:
-    History”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-2.1.6-A-Brief-Historic-Overview%E2%80%A81.pdf)
+    Experience](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-2.1.6-A-Brief-Historic-Overview%E2%80%A81.pdf)[:
+    History”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-2.1.6-A-Brief-Historic-Overview%E2%80%A81.pdf)
     (PDF)  
       
      Instructions: Read “Romance and the Didactic in the
@@ -235,14 +235,14 @@ id="2.1.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Reading Questions: The Castle
     of Otranto”**
     Link: The Saylor Foundation’s [“Reading Questions: *The Castle of
-    Otranto*”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-2.1.7-Reading-Questions-Castle-of-Otranto-FINAL-PR.pdf)
+    Otranto*”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-2.1.7-Reading-Questions-Castle-of-Otranto-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please complete the assessment linked above.  After
     answering these reading questions, check your answers against the
     sample responses in the Saylor Foundation’s [“Reading Questions:
     *The Castle of Otranto* – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-2.1.7-Guide-to-Responding-Reading-Questions-Castle-of-Otranto-FINAL-PR.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-2.1.7-Guide-to-Responding-Reading-Questions-Castle-of-Otranto-FINAL-PR.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.
@@ -252,7 +252,7 @@ id="2.1.6"></span> 
     Project Gutenberg: Ann Radcliffe’s The Mysteries of Udolpho**
 
     Link: Brooklyn College: Dr. Lilia Melani’s [“Ann
-    Radcliffe”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-2.2-Ann-Radcliffe.pdf)
+    Radcliffe”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-2.2-Ann-Radcliffe.pdf)
     (PDF) and Project Gutenberg: Ann Radcliffe’s *[The Mysteries of
     Udolpho](http://www.gutenberg.org/files/3268/3268-h/3268-h.htm) *(HTML)  
       
@@ -458,7 +458,7 @@ striving to exceed it.*
     Link: *The Literary Gothic*: Ann Radcliffe’s [“On the Supernatural
     in Poetry”](http://www.litgothic.com/Authors/radcliffe.html) (PDF)
     and Brooklyn College: Dr. Lilia Melani’s [“Terror versus
-    Horror”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-2.2.6-Terror-vs.-Horror.pdf)
+    Horror”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-2.2.6-Terror-vs.-Horror.pdf)
     (PDF)  
       
      Instructions: First, read the Radcliffe’s “On the Supernatural in
@@ -487,7 +487,7 @@ id="2.2.7"></span> 
     Udolpho”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF) and University of Virginia: Terry Castle’s [“The
     Spectralization of the Other in *The Mysteries of
     Udolpho*”](http://graduate.engl.virginia.edu/enec981/Group/chris.uncanny.html#castle)
@@ -541,7 +541,7 @@ id="2.2.9"></span> 
     Glossary of Literary Gothic Terms”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF)  
       
      Instructions: Read the Dr. Thomson’s definition of “sensibility.”  
@@ -560,13 +560,13 @@ id="2.2.9"></span> 
     Mysteries of Udolpho”**
     Link: The Saylor Foundation’s [“Reading Questions: *The Mysteries of
     Udolpho* *and The Castle of
-    Otranto*”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-Unit_2-Reading_Questions_Assignment-FINAL-PR.pdf) (PDF)  
+    Otranto*”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-Unit_2-Reading_Questions_Assignment-FINAL-PR.pdf) (PDF)  
       
      Instructions: Please complete the assessment linked above.  After
     answering these reading questions, check your answers against the
     sample responses in the Saylor Foundation’s [“Reading Questions:
     *The Mysteries of Udolpho* and *The Castle of Otranto* – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-Unit_2-Guide_to_Responding_to_Reading_Questions-FINAL-PR.pdf) (PDF).  
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-Unit_2-Guide_to_Responding_to_Reading_Questions-FINAL-PR.pdf) (PDF).  
       
      Completing this assessment should take approximately 1 hour.
 

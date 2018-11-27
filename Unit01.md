@@ -47,7 +47,7 @@ id="1.1.1"></span> 
     Link: Brooklyn College: Dr. Lilia Melani’s [“The Gothic Experience:
     Gothic Architecture, Gothic Literature, The *Oxford English
     Dictionary*
-    Definition”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.1.1-Gothic-architecture.pdf)
+    Definition”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.1.1-Gothic-architecture.pdf)
     (PDF); University of California, Davis: David De Vore, Anne Domenic,
     Alexandra Kwan, and Nicole Reidy’s [“The Gothic
     Novel”](http://cai.ucdavis.edu/waters-sites/gothicnovel/155breport.html)
@@ -117,7 +117,7 @@ Connotations** <span id="1.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Gothic as a Literary Mode”**
 
     Link: The Saylor Foundation’s [“The Gothic as a Literary
-    Mode”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-1.1.3-Gothic-Literary-Mode-FINAL-PR.pdf)
+    Mode”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-1.1.3-Gothic-Literary-Mode-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please read this article.  
@@ -188,7 +188,7 @@ id="1.1.5"></span> 
 -   **Reading: The Saylor Foundation’s “The Gothic as a Set of Literary
     Themes”**
     Link: The Saylor Foundation’s [“The Gothic as a Set of Literary
-    Themes”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-1.1.5-Gothic-Literary-Themes-FINAL-PR.pdf)
+    Themes”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-1.1.5-Gothic-Literary-Themes-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please read this article.  
@@ -222,7 +222,7 @@ id="1.1.6"></span> 
 
     Link: The Saylor Foundation’s [“The Gothic as a Portrait of the
     Fallen
-    World”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-1.1.6-Gothic-Fallen-World-FINAL-PR.pdf)
+    World”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-1.1.6-Gothic-Fallen-World-FINAL-PR.pdf)
     (PDF)  
       
      Instructions:  Please read this article.  
@@ -280,11 +280,11 @@ id="1.2.1"></span> 
     Gothic Fiction in the Nineteenth Century, Gothic Fiction in the
     Twentieth Century, Some Connections”**
     Link: Brooklyn College: Dr. Lilia Melani’s [“The
-    Novel”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.2.2-The-Novel.pdf)
+    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.2.2-The-Novel.pdf)
     (PDF) and [“The Gothic Experience: The First Wave of Gothic Novels:
     1765-1820, Gothic Fiction in the Nineteenth Century, Gothic Fiction
     in the Twentieth Century, Some
-    Connections”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.2.2-Gothic-History%E2%80%A8.pdf) (PDF)  
+    Connections”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.2.2-Gothic-History%E2%80%A8.pdf) (PDF)  
       
      Instructions: Read “The Novel” for a broad introduction to the rise
     of the novel, including information on its historical development
@@ -313,7 +313,7 @@ id="1.2.1"></span> 
     Drama”](http://graduate.engl.virginia.edu/enec981/Group/amanda.gothdrm.html)
     (HTML); The Saylor Foundation: Percy Bysshe Shelley’s [*The Cenci: A
     Tragedy in Five
-    Acts*](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.2.2-Cenci.pdf)
+    Acts*](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.2.2-Cenci.pdf)
     (PDF), [“Hymn to Intellectual
     Beauty”](http://www.english.upenn.edu/Projects/knarf/PShelley/beauty.html)
     (HTML), and [“Dark Spirit of the Desart
@@ -366,7 +366,7 @@ the present.*
     Glossary of Literary Gothic Terms”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF)  
       
      Instructions: Please read the definition of “the haunted castle or
@@ -390,7 +390,7 @@ the present.*
     Gothic”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf) (PDF)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf) (PDF)
     and University of Virginia: [“Hero or Villain or Hero-Villain?:
     Defining Masculinity in the Female
     Gothic”](http://graduate.engl.virginia.edu/enec981/Group/ami.villain.html)
@@ -421,7 +421,7 @@ the present.*
     of British Gothic Literature”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF) and McGill University: Carol Margaret Davison’s [“Gothic
     Cabala: The Anti-Semitic Spectropoetics of British Gothic
     Literature”](http://digitool.library.mcgill.ca/R/-?func=dbin-jump-full&amp;current_base=GEN01&amp;object_id=34941)
@@ -475,7 +475,7 @@ the present.*
     Shelley’s “On Ghosts”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF) and The Literary Gothic: Mary Shelley’s [“On
     Ghosts”](http://www.litgothic.com/Texts/on_ghosts.html) (HTML)  
       
@@ -524,7 +524,7 @@ of terror within the ruling power structure of a given society.*
     University of Virginia: Frederick R. Karl’s “Gothic, Gothicism,
     Gothicists”**
     Link: Brooklyn College: Dr. Lilia Melani’s “[The
-    Other](http://www.saylor.org/site/wp-content/uploads/2012/11/The-Other.pdf)”
+    Other](https://resources.saylor.org/archived/wp-content/uploads/2012/11/The-Other.pdf)”
     (PDF) and University of Virginia: Frederick R. Karl’s [“Gothic,
     Gothicism,
     Gothicists”](http://graduate.engl.virginia.edu/enec981/Group/chris.social.html#paulson)(HTML)  
@@ -582,14 +582,14 @@ of terror within the ruling power structure of a given society.*
 
 -   **Assessment: The Saylor Foundation’s “Gothic Conventions Quiz”**
     Link: The Saylor Foundation’s [“Gothic Conventions
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-Unit_1-Gothic_Conventions_Quiz-FINAL-PR.pdf)
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-Unit_1-Gothic_Conventions_Quiz-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment, which is
     designed to help you think through some of the major conventions
     used in the Gothic novel.  When you are finished, check your answers
     against the Saylor Foundation’s [“Gothic Conventions Quiz Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/11/ENGL403-Unit_1-Gothic_Conventions_Quiz_Answer_Key-FINAL-PR.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-Unit_1-Gothic_Conventions_Quiz_Answer_Key-FINAL-PR.pdf)
     (PDF).  
       
      Completing this quiz should take approximately 30 minutes.
