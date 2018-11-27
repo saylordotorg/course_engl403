@@ -82,7 +82,7 @@ the Film** <span id="5.3"></span> 
     Cherchi Usai’s “Kubrick as Architect”**
     Link: Georgia Southern University: Dr. Douglass H. Thomson’s [“A
     Glossary of Literary Gothic
-    Terms”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF) and Romanticism on the Net: Paolo Cherchi Usai’s [“Kubrick as
     Architect”](http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBIQFjAA&url=http%3A%2F%2Fwww.erudit.org%2Frevue%2FCINE%2F1998%2Fv9%2Fn1%2F024776ar.pdf&ei=XuI0TLTxKIX7lwfxlbHTBw&usg=AFQjCNGs-ZDy27GWV-EzQqaqld5BKmNjAA&sig2=CYXZBCLD5S5JnGzmeHpD7w)
     (PDF)  
