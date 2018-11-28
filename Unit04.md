@@ -61,7 +61,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Reading Questions: The
     Monk”**
     Link: The Saylor Foundation’s [“Reading Questions: *The
-    Monk*”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ENGL403-Subunit-4.1-The-Monk-Reading-Questions-FINAL.pdf)
+    Monk*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ENGL403-Subunit-4.1-The-Monk-Reading-Questions-FINAL.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and complete the
@@ -69,7 +69,7 @@ Upon successful completion of this unit, the student will be able to:
     of the major themes present in *The Monk *and the unit’s critical
     readings.  When you are done, check your work against The Saylor
     Foundation’s [“Guide to Responding to Reading Questions on *The
-    Monk*”](https://resources.saylor.org/archived/wp-content/uploads/2012/04/ENGL403-Subunit-4.1-Guide-to-Responding-to-The-Monk-Reading-Questions-FINAL.pdf)
+    Monk*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/ENGL403-Subunit-4.1-Guide-to-Responding-to-The-Monk-Reading-Questions-FINAL.pdf)
     (PDF).  
       
      Completing the assessment should take approximately 1 hour.
@@ -221,7 +221,7 @@ id="4.1.5"></span> 
 **4.2 Jane Eyre** <span id="4.2"></span> 
 -   **Reading: Charlotte Brontë’s Jane Eyre**
     Link: Charlotte Brontë’s [*Jane
-    Eyre *](https://resources.saylor.org/archived/wp-content/uploads/2011/02/JANE-EYRE.pdf)(PDF)  
+    Eyre *](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/JANE-EYRE.pdf)(PDF)  
       
      Also available in:  
      [Google
@@ -248,7 +248,7 @@ id="4.1.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Reading Questions: Jane
     Eyre”**
     Link: The Saylor Foundation’s [“Reading Questions: *Jane
-    Eyre*”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-4.2-Reading-Questions-on-Jane-Eyre-FINAL-PR.pdf)
+    Eyre*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-4.2-Reading-Questions-on-Jane-Eyre-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and complete the
@@ -256,7 +256,7 @@ id="4.1.5"></span> 
     of the major themes present in *Jane Eyre* and this unit’s critical
     readings.  When you are finished, check your work against The Saylor
     Foundation’s [“Reading Questions: *Jane Eyre* – Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-4.2-Guide-to-Responding-to-Reading-Questions-on-Jane-Eyre-FINAL-PR.pdf)
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-4.2-Guide-to-Responding-to-Reading-Questions-on-Jane-Eyre-FINAL-PR.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 45 minutes.
@@ -268,11 +268,11 @@ id="4.1.5"></span> 
     and Women’s Suffrage”**
     Links: The Victorian Web: Suzanne Hesse’s [“The Victorian Ideal:
     Male Characters in *Jane Eyre* and
-    *Villette*,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL403-4.2.1-TheVictorianIdeal.pdf)
+    *Villette*,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL403-4.2.1-TheVictorianIdeal.pdf)
     (PDF) Dr. Andrzej Diniejko’s [“The New Woman
-    Fiction,”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL403-4.2.1-TheNewWomanFiction.pdf)
+    Fiction,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL403-4.2.1-TheNewWomanFiction.pdf)
     (PDF) and Helena Wojtczak’s [“Hastings and Women’s
-    Suffrage”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ENGL403-4.2.1-HastingsAndWomensSuffrage.pdf)
+    Suffrage”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ENGL403-4.2.1-HastingsAndWomensSuffrage.pdf)
     (PDF)  
         
      Instructions: Read these pages, which are intended to provide you
@@ -300,7 +300,7 @@ id="4.2.3"></span> 
     Jane Eyre”**
     Link: University of Virginia: Charlotte Perkins Gilman’s [“The
     Yellow
-    Wallpaper”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Yellow-Wallpaper.pdf)
+    Wallpaper”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-Yellow-Wallpaper.pdf)
     (PDF) and The Victorian Web: Joan Z. Anderson’s [“Angry Angels:
     Repression, Containment, and Deviance, in Charlotte Brontë’s *Jane
     Eyre*”](http://www.victorianweb.org/authors/bronte/cbronte/anderson1.html)
@@ -324,7 +324,7 @@ id="4.2.4"></span> 
     Novel” and The Victorian Web: George P. Landow’s “Genre, Plot, and
     Theme in Jane Eyre”**
     Link: Brooklyn College: Dr. Lilia Melani’s [“The Romance and the
-    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-4.2.4-Romance-and-the-Novel.pdf)
+    Novel”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/engl403-4.2.4-Romance-and-the-Novel.pdf)
     (PDF) and The Victorian Web: George P. Landow’s [“Genre, Plot, and
     Theme in *Jane
     Eyre*”](http://www.victorianweb.org/authors/bronte/cbronte/je4.html)
@@ -368,7 +368,7 @@ id="4.2.4"></span> 
     Gothic Space, and Gender Relations”**
     Link: The Saylor Foundation’s [“Thornfield (and Its Attic), Gothic
     Space, and Gender
-    Relations”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-4.2.5-Gender-FINAL-PR.pdf)
+    Relations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-4.2.5-Gender-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Read this article.  

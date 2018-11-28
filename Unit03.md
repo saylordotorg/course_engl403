@@ -101,7 +101,7 @@ Upon successful completion of this unit, the student will be able to:
     Williams”](http://www.popmatters.com/pm/review/the-gothic-by-gilda-williams/)
     (HTML) and Georgia Southern University: Dr. Douglass H. Thomson’s
     [“A Glossary of Literary Gothic
-    Terms”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
+    Terms”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/engl403-1.3.1-A-Glossary-of-Literary-Gothic-Terms.pdf)
     (PDF)  
       
      Instructions: Please read this review of Williams’ *The Gothic,*
@@ -176,7 +176,7 @@ id="3.1.4"></span> 
     Frankenstein: Creation, Frustration, Fragmentation, Abomination”**
     Link: The Victorian Web: Devon Anderson’s [“Mary Shelley’s
     *Frankenstein*: Creation, Frustration, Fragmentation,
-    Abomination”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Creation-Frustration.pdf) (PDF)  
+    Abomination”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Creation-Frustration.pdf) (PDF)  
       
      Instructions: Please read this essay for an introduction to the
     idea of monstrosity in *Frankenstein*, especially as it pertains to
@@ -215,7 +215,7 @@ id="3.1.4"></span> 
 
 -   **Reading: The Saylor Foundation’s “Race and Otherness”**
     Link: The Saylor Foundation’s [“Race and
-    Otherness”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-3.1.6-Race-and-Otherness-FINAL-PR.pdf)
+    Otherness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-3.1.6-Race-and-Otherness-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please read this article.  
@@ -282,16 +282,16 @@ Revolution** <span id="3.1.8"></span> 
 -   **Assessment: The Saylor Foundation’s “Reading Questions:
     Frankenstein”**
     Link: The Saylor Foundation’s [“Reading Questions:
-    *Frankenstein*”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-3.1.8-Reading-Questions-on-Frankenstein-FINAL-PR.pdf)
+    *Frankenstein*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-3.1.8-Reading-Questions-on-Frankenstein-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please complete this assessment, which is designed to
     help you think through some of the major themes present in
     *Frankenstein.*  When you are done, check your work against The
     Saylor Foundation’s [“Reading Questions:
-    *Frankenstein*](https://resources.saylor.org/archived/wp-content/uploads/2012/03/ENGL403-Sub-subunit-3.1.8-Guide-to-Responding-to-Reading-Questions-on-Frankenstein-FINAL.pdf)[* *–
+    *Frankenstein*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/ENGL403-Sub-subunit-3.1.8-Guide-to-Responding-to-Reading-Questions-on-Frankenstein-FINAL.pdf)[* *–
     Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/03/ENGL403-Sub-subunit-3.1.8-Guide-to-Responding-to-Reading-Questions-on-Frankenstein-FINAL.pdf)
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/03/ENGL403-Sub-subunit-3.1.8-Guide-to-Responding-to-Reading-Questions-on-Frankenstein-FINAL.pdf)
     (PDF).  
       
      Completing this assessment should take approximately 1 hour.
@@ -342,7 +342,7 @@ from foreign invasion to the rise of women in the public sphere.*
 
 -   **Assessment: The Saylor Foundation’s “Reading Questions: Dracula”**
     Link: The Saylor Foundation’s [“Reading Questions:
-    *Dracula*”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-3.2-Dracula-Reading-Questions-FINAL-PR.pdf)
+    *Dracula*”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-3.2-Dracula-Reading-Questions-FINAL-PR.pdf)
     (PDF)  
       
      Instructions: Please click on the link above and complete the
@@ -350,7 +350,7 @@ from foreign invasion to the rise of women in the public sphere.*
     of the major themes in Bram Stoker’s *Dracula *and this unit’s
     critical readings.  When you are finished, check your work against
     The Saylor Foundation’s [“Reading Questions: *Dracula* – Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ENGL403-3.2-Guide-to-Responding-to-Dracula-Reading-Questions-FINAL-PR.pdf)
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ENGL403-3.2-Guide-to-Responding-to-Dracula-Reading-Questions-FINAL-PR.pdf)
     (PDF)  
       
      Completing this assessment should take approximately 1 hour.
@@ -406,7 +406,7 @@ id="3.2.2"></span> 
 -   **Reading: Sheridan Le Fanu’s Carmilla and All Things Dracula: J.
     Gordon Melton’s “Introduction: Dracula the Text”**
     Link: Sheridan Le Fanu’s
-    *[Carmilla](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Carmilla.pdf) *(PDF)
+    *[Carmilla](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Carmilla.pdf) *(PDF)
     and All Things Dracula: J. Gordon Melton’s [“Introduction: *Dracula*
     the Text”](http://www.cesnur.org/2003/dracula/) (HTML)  
       
